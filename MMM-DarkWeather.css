@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css?family=Muli');
+.MMM-DarkWeather {width: 450px;
+	padding-right: 24px;
+	padding-bottom: 205px;
+	}
+.MMM-DarkWeather .center {
+	margin: 0 auto;
+}
+.MMM-DarkWeather .fonts {
+	font-family: 'Muli', sans-serif;
+}
+.MMM-DarkWeather .span4 {
+	margin: 130px 130px 130px 1119px;
+}
+.MMM-DarkWeather .padding{
+position: absolute;	
+padding: 82px 30px 9px 10px;
+}
+.MMM-DarkWeather .tpadding{
+padding: 49px;
+}
+.MMM-DarkWeather .lpadding{
+padding-left: 49px;
+padding-bottom: 10px;
+}
+.MMM-DarkWeather .rpadding{
+padding-right: 25px;
+}
+.MMM-DarkWeather .spadding{
+padding-right: 10px;
+}
+.MMM-DarkWeather .line{
+	line-height: 93%;
+}
+.MMM-DarkWeather .lineless{
+	padding-top: 1px;
+} 
+.MMM-DarkWeather .img {
+	width: 23px; 
+	height: 23px; 
+	align-content: center;
+}
+.MMM-DarkWeather .tempf {
+	margin: 0 4px;
+	text-shadow: 1px 1px 2px yellow, 0 0 25px blue, 0 0 5px darkblue;
+	position: relative;
+	z-index: 1;
+}
+.MMM-DarkWeather .forecast{
+	width: 30px;
+	height: 29px;
+}
+.MMM-DarkWeather .arrow {
+	height: 8%;
+	width: 8%;
+}
+.MMM-DarkWeather .size {
+	font-size: .45em;
+	color: white;
+	line-height: 92%;
+}
+.MMM-DarkWeather .fsize {
+	font-size: .30em;
+	color: white;
+	line-height: 92%;
+}
+.MMM-DarkWeather .sicon{
+	width: 28%;
+	height: 29%;
+}
+#navBar {
+    width: 100%; 
+    margin-left: 19%;
+    margin-right: auto;
+	position: absolute;
+}
+#subDiv1, #subDiv2, #subDiv3, #subDiv4, #subDiv5, #subDiv6 {
+    width: 15%; 
+    box-sizing:border-box;
+}
+#subDiv1 { 
+    float: left;
+}
+#subDiv2 {
+    float: left;
+}
+#subDiv3 {
+    float: left;
+}
+#subDiv4 { 
+    float: left;
+}
+#subDiv5 { 
+    float: left;
+}
+#subDiv6 { 
+    float: left;
+}
